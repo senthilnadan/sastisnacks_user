@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "277392718703",
+    "project_id": "sasti-snacks",
+    "storage_bucket": "sasti-snacks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277392718703:android:5ae8ae5ad168f22233469a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277392718703-fbdr5bq47ju779h4t4j4fg0obils6pit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU-hs2ifemcmvadJgLvpEHMoaZZkKBvSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277392718703-fbdr5bq47ju779h4t4j4fg0obils6pit.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "277392718703-5iivv5vsi7iak79gqopjil0ti1sb451s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseLogin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277392718703:android:5063d7f034dec27e33469a",
+        "android_client_info": {
+          "package_name": "com.example.phone_login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277392718703-fbdr5bq47ju779h4t4j4fg0obils6pit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU-hs2ifemcmvadJgLvpEHMoaZZkKBvSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277392718703-fbdr5bq47ju779h4t4j4fg0obils6pit.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "277392718703-5iivv5vsi7iak79gqopjil0ti1sb451s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseLogin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277392718703:android:8e02ed27870dfad433469a",
+        "android_client_info": {
+          "package_name": "com.example.sastisnacks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277392718703-fbdr5bq47ju779h4t4j4fg0obils6pit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU-hs2ifemcmvadJgLvpEHMoaZZkKBvSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277392718703-fbdr5bq47ju779h4t4j4fg0obils6pit.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "277392718703-5iivv5vsi7iak79gqopjil0ti1sb451s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseLogin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277392718703:android:f60f623bfd0847e633469a",
+        "android_client_info": {
+          "package_name": "com.example.users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277392718703-fbdr5bq47ju779h4t4j4fg0obils6pit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU-hs2ifemcmvadJgLvpEHMoaZZkKBvSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277392718703-fbdr5bq47ju779h4t4j4fg0obils6pit.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "277392718703-5iivv5vsi7iak79gqopjil0ti1sb451s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseLogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
